@@ -1,5 +1,4 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
 
@@ -74,7 +73,6 @@ plt.ylabel("Cost")
 plt.title("Logistic Regression using Gradient Descent")
 plt.show()
 ```
-
 ## Output:
 <img width="757" height="634" alt="Screenshot 2026-04-29 092611" src="https://github.com/user-attachments/assets/86f4a72c-9f03-44bd-b1d9-8324f2119d38" />
 
